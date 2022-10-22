@@ -31,7 +31,7 @@ function play(question, answer) {
   }
   else {
     console.log("Wrong");
-    console.log("the right answer is: ", answer);
+    console.log("The right answer is: ", answer);
   }
   console.log("Current score: " + score);
   console.log("-----------------");
